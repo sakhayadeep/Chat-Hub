@@ -23,8 +23,5 @@ Chat app for Android made with Kotlin and Pusher. Follow the tutorial [here](htt
 
 * [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 
-## Acknowledgments
-* Thanks to [Pusher](https://pusher.com/) for sponsoring this tutorial.
-
 ## LICENSE
 MIT
