@@ -1,5 +1,5 @@
 # Chat Hub
-Chat app for Android made with Kotlin and Pusher. Follow the tutorial [here](https://pusher.com/tutorials/chat-kotlin-android).
+Chat app for Android made with Kotlin and Pusher.
 
 ## Getting Started
 
